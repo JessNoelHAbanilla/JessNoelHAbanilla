@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jess Noel Humigop Abanilla
 - 👀 I’m interested in dancing and listening to music
-- 🌱 I’m currently learning Computer Science 3
+- 🌱 I’m currently learning Computer Science 4
 - 💞️ I’m looking to collaborate on computer science experts
 - 📫 How to reach me through email: jessnoel.abanilla@smc.pshs.edu.ph
 - 😄 Pronouns: he/him
